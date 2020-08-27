@@ -53,3 +53,21 @@ body
     border-bottom: 1px solid #ddd;
     padding: 15px;
 }
+
+.carousel
+{
+    background: #512DA8;
+}
+
+.carousel-item
+{
+    height: 250px;
+}
+
+.carousel-item img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 250px;    
+}
